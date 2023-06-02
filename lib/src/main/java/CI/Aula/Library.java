@@ -5,6 +5,6 @@ package CI.Aula;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
 }
